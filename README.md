@@ -14,6 +14,7 @@ You can check the [API documentation][1] to view a list of all available functio
 
 If you want to create a subscriber, simply use:
 
+	require 'rubygems'
     require 'mailrelay'
 
     # Set your account hostname and api key here

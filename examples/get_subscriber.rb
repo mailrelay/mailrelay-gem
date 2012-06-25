@@ -1,6 +1,7 @@
 # Only required if you didn't installed this gem
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 
+require 'rubygems'
 require 'mailrelay'
 
 # Set your hostname and api key here
