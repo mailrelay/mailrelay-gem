@@ -25,5 +25,5 @@ If you want to create a subscriber, simply use:
 
     api.addSubscriber :email => 'user@example.org', :name => 'Name'
 
-[1]: http://mailrelay.com/en/api
+[1]: http://mailrelay.com/es/api-documentation
 [2]: http://mailrelay.com
